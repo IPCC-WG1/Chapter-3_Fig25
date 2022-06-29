@@ -5,7 +5,7 @@ OCEAN BASINS
 Figure number: Figure 3.25
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
 
-![Figure 3.25](../images/ar6_wg1_chap3_fig3_25_ocean_basin.png?raw=true)
+![Figure 3.25](ar6_wg1_chap3_fig3_25_ocean_basin.png?raw=true)
 
 Description:
 ------------
@@ -40,13 +40,13 @@ Author list:
 
 ESMValTool Branch:
 ------------------
-- ESMValTool-AR6-OriginalCode-FinalFigures: [ar6_chapter3_cryo_xcb32](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/tree/ar6_chapter3_cryo_xcb32/)
+- ESMValTool-AR6-OriginalCode-FinalFigures: [ar6_chapter3_cryo_xcb32](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/tree/ar6_chapter3_cryo_xcb32/)
 
 Recipe & diagnostics:
 ---------------------
-Recipe used: [recipes/recipe_ocean_basin_profile_bias.yml](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter3_cryo_xcb32/esmvaltool/recipes/recipe_ocean_basin_profile_bias.yml)
+Recipe used: [recipes/recipe_ocean_basin_profile_bias.yml](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter3_cryo_xcb32/esmvaltool/recipes/recipe_ocean_basin_profile_bias.yml)
 
-Diagnostic used: [ocean/diagnostic_basin_profile_bias.py](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter3_cryo_xcb32/esmvaltool/diag_scripts/ocean/diagnostic_basin_profile_bias.py)
+Diagnostic used: [ocean/diagnostic_basin_profile_bias.py](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter3_cryo_xcb32/esmvaltool/diag_scripts/ocean/diagnostic_basin_profile_bias.py)
 
 Expected image path:
 --------------------
